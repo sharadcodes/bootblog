@@ -1,0 +1,78 @@
+# Site Info
+title: Bootblog
+tagline: 'A jekyll blog theme powered by bootstrap'
+description: 'A jekyll blog theme powered by bootstrap </a>made by <a href="https://www.sharad.cf" target="_blank">@sharadcodes</a>.'
+baseurl: '/bootblog'
+url: https://sharadcodes.github.io
+
+# Site configurations
+plugins:
+  - jekyll-paginate
+markdown: kramdown
+
+# About/contact
+author: Sharad Raj
+
+bio: I'm a programmer, a blogger and a student :). I am doing coding since I was 14,it was my dream after all. My current future goal is to become an entrepreneur in the field of Cyber Security & Ethical Hacking as well as in Software Development, I have also thought of jumping into the Android Development as well.I have been a scholar since my 10th. Recently I got the Google India Scholarship for Front End Web Development.
+  
+contact:
+   - title: Linkedin
+     link:  https://www.linkedin.com/in/your_id
+
+   - title: Github
+     link:  https://github.com/your_id
+
+   - title: Instagram
+     link:  https://www.instagram.com/your_id
+
+   - title: Twitter
+     link:  https://www.twitter.com/your_id
+
+   - title: Gmail
+     link:  mailto:yourmail@abc.com
+  
+skills:
+   - title: C
+     level: 91
+     color: primary
+
+   - title: C++
+     level: 81
+     color: success
+     
+   - title: Python
+     level: 69
+     color: warning
+     
+   - title: Html
+     level: 95
+     color: primary
+     
+   - title: CSS
+     level: 89
+     color: info     
+
+   - title: Jekyll
+     level: 88
+     color: danger
+
+# Navigation (2nd level links supported)
+
+toc:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/    
+  - title: About
+    url: /about/
+  - title: Author
+    url: /author/    
+    
+  - title: Dropdown
+    subfolderitems:
+      - page: Piece 1
+        url: /piece1.html
+      - page: Piece 2
+        url: /piece2.html
+      - page: Piece 3
+        url: /piece3.html

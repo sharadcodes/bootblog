@@ -1,0 +1,19 @@
+---
+layout: default
+title: Author
+---
+
+<div class="jumbotron">
+  <h1 class="display-3">{{ site.author }}</h1>
+  <p class="lead">{{ site.bio }}</p>
+  <hr class="my-4">
+  <h2>Skills</h2>
+  {% for skill in site.skills %}
+  <h6>{{ skill.title }}</h6>
+  <div class="progress">
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-{{ skill.color }}" role="progressbar" aria-valuenow="{{ skill.level }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ skill.level }}%"></div>
+  </div>
+      <h6 style="text-align:right;" class="text-{{ skill.color }}">{{ skill.level }}%</h6>
+  <br>
+  {% endfor %}
+</div>
