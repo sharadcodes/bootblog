@@ -24,6 +24,10 @@ A jekyll blog theme powered by bootstrap,it's minimal and resopnsive & don't for
 ![Home page](https://github.com/sharadcodes/bootblog/raw/master/screenshots/home.png)
 ## BLOG PAGE
 ![Blog page](https://github.com/sharadcodes/bootblog/raw/master/screenshots/blog.png)
+## BLOG PAGE IN MOBILE
+![Blog page](https://github.com/sharadcodes/bootblog/raw/master/screenshots/mobile-1.png)
+## POST EXAMPLE IN MOBILE
+![Sampe post](https://github.com/sharadcodes/bootblog/raw/master/screenshots/mobile-2.png)
 ## POST EXAMPLE
 ![Sampe post](https://github.com/sharadcodes/bootblog/raw/master/screenshots/post.png)
 ## PORTFOLIO PAGE
