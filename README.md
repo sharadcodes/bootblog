@@ -21,16 +21,16 @@ A jekyll blog theme powered by bootstrap,it's minimal and resopnsive & don't for
 # Preview
 
 ## HOME PAGE
-![Blog page](https://github.com/sharadcodes/bootblog/raw/master/screenshots/home.png)
+![Home page](https://github.com/sharadcodes/bootblog/raw/master/screenshots/home.png)
 ## BLOG PAGE
 ![Blog page](https://github.com/sharadcodes/bootblog/raw/master/screenshots/blog.png)
 ## POST EXAMPLE
 ![Sampe post](https://github.com/sharadcodes/bootblog/raw/master/screenshots/post.png)
 ## PORTFOLIO PAGE
-![Blog page](https://github.com/sharadcodes/bootblog/raw/master/screenshots/portfolio.png)
+![Portfolio](https://github.com/sharadcodes/bootblog/raw/master/screenshots/portfolio.png)
 ## ABOUT PAGE
-![Blog page](https://github.com/sharadcodes/bootblog/raw/master/screenshots/blog.png)
+![About](https://github.com/sharadcodes/bootblog/raw/master/screenshots/about.png)
 ## 404 Custom page
-![Side menu bar opened](https://github.com/sharadcodes/bootblog/raw/master/screenshots/404.png)
+![404 page](https://github.com/sharadcodes/bootblog/raw/master/screenshots/404.png)
 ## 2nd LEVEL MENU IN NAVIGATION BAR
-![Sampe post](https://github.com/sharadcodes/bootblog/raw/master/screenshots/second-level-menu-open.png)
+![Navbar](https://github.com/sharadcodes/bootblog/raw/master/screenshots/second-level-menu-open.png)
